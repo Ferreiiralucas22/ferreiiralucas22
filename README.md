@@ -4,4 +4,4 @@
 
 - 🔭 Cursando 2° semestre em Análise e Desenvolvimento de Sistemas na Estácio
 - 🌱 Estudando Phyton/HTML/Mysql
-- 😄 Pronouns: Ele/dele
+- ✌️ 21 anos
