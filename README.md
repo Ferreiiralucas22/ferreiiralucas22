@@ -7,8 +7,6 @@
 github-readme-stats-theta-weld-81.vercel.app
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  
-<img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-theta-weld-81.vercel.app/api?username=ferreiiralucas22&show_icons=true&hide_border=true" />
+![Ferreiiralucas22 Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
   </details>
