@@ -2,6 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiiralucas22&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas 1/5 semestres concluidos 
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas 1/5 
 - 🌱 Estudando Phyton/HTML/Mysql
 - 😄 Pronouns: Ele/dele
